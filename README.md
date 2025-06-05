@@ -4,7 +4,7 @@ Hello Guys, This is my profile. A collection of Python-based projects showcasing
 
 
 
-  #Realtime-Digital-Clock
+                                                                       1. Realtime-Digital-Clock
 Digital Clock
 
 Description : This is a simple digital clock application built using Python's Tkinter module. The clock displays the current time, date, and AM/PM status in a graphical window. The time updates dynamically every second using the after() method of Tkinter.
@@ -61,7 +61,7 @@ Feel free to improve the UI or add more features like different time zones or cu
 
 
 
-   #SIMPLE-TEXT-EDITOR
+                                                                  2. SIMPLE-TEXT-EDITOR
 Simple Text Editor
 
 Overview
@@ -110,7 +110,7 @@ This project is open-source and free to use for educational purposes.
 
 
 
-  #Restaurant-Ordering-System
+                                                                            3. Restaurant-Ordering-System
 This is a simple Python-based restaurant ordering system that allows customers to order items from a predefined menu. The program presents the menu with item names and their corresponding prices, takes user input to select items, and calculates the total bill based on the selected items. It also allows the user to add another item to their order if they wish.
 
 Features
